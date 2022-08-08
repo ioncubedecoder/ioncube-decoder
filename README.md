@@ -1,0 +1,9 @@
+# ioncube-decoder
+We Decrypt All Files Encrypted With Ioncube!
+Hello, I'm IoncubeDecoder
+I decrypt all your files encrypted with ioncube
+php 5.6 7.0 7.1 7.2 7.3 7.4 Online Decoder
+To Contact Me https://www.ioncubedecoder.net
+Whatsapp Contact: https://wa.me/31633808752
+Also Breaking All Script Licenses
+We are the world's #1 decoder site
